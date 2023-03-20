@@ -2,5 +2,9 @@ Bot_1/.idea/*
 Bot_1/.venv/*
 Bot_1/.env
 
+Bot_2/.idea/*
+Bot_2/.venv/*
+Bot_2/.env
+
 
 .idea
